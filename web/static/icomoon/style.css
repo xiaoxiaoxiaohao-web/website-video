@@ -1,0 +1,160 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?mr6obq');
+  src:  url('fonts/icomoon.eot?mr6obq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?mr6obq') format('truetype'),
+    url('fonts/icomoon.woff?mr6obq') format('woff'),
+    url('fonts/icomoon.svg?mr6obq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-login_qq:before {
+  content: "\e900";
+  color: #008cd2;
+}
+.icon-login_wb:before {
+  content: "\e901";
+  color: #e61624;
+}
+.icon-read_dh:before {
+  content: "\e91c";
+}
+.icon-read_kj:before {
+  content: "\e91d";
+}
+.icon-read_ys:before {
+  content: "\e91e";
+}
+.icon-read_tj:before {
+  content: "\e91f";
+}
+.icon-read_yx:before {
+  content: "\e920";
+}
+.icon-read_sh:before {
+  content: "\e921";
+}
+.icon-read_xq:before {
+  content: "\e922";
+}
+.icon-info_dy:before {
+  content: "\e918";
+  color: #ff5d47;
+}
+.icon-info_tg:before {
+  content: "\e919";
+  color: #02b5da;
+}
+.icon-info_zy:before {
+  content: "\e91a";
+  color: #00c091;
+}
+.icon-info_dt:before {
+  content: "\e91b";
+  color: #fb7299;
+}
+.icon-rank_ys:before {
+  content: "\e913";
+  color: #ffb870;
+}
+.icon-rank_qz:before {
+  content: "\e914";
+  color: #00a5db;
+}
+.icon-rank_xr:before {
+  content: "\e915";
+  color: #fe7fac;
+}
+.icon-rank_yc:before {
+  content: "\e916";
+  color: #f19f3c;
+}
+.icon-rank_xf:before {
+  content: "\e917";
+  color: #02cb92;
+}
+.icon-dynamic_tp:before {
+  content: "\e90f";
+  color: #bfbfbf;
+}
+.icon-dynamic_sc:before {
+  content: "\e910";
+  color: #bfbfbf;
+}
+.icon-dynamic_ds:before {
+  content: "\e911";
+  color: #bfbfbf;
+}
+.icon-dynamic_ht:before {
+  content: "\e912";
+  color: #bfbfbf;
+}
+.icon-column_dh:before {
+  content: "\e90e";
+  color: #9796ed;
+}
+.icon-column_fj:before {
+  content: "\e908";
+  color: #fdde80;
+}
+.icon-column_gc:before {
+  content: "\e909";
+  color: #ff5c7a;
+}
+.icon-column_mh:before {
+  content: "\e90a";
+  color: #9796ed;
+}
+.icon-column_tg:before {
+  content: "\e90b";
+  color: #ffd778;
+}
+.icon-column_yl:before {
+  content: "\e90c";
+  color: #45c7dd;
+}
+.icon-column_zb:before {
+  content: "\e90d";
+  color: #48cfe5;
+}
+.icon-iMenu_phb:before {
+  content: "\e905";
+  color: #00a1d6;
+}
+.icon-iMenu_dt:before {
+  content: "\e906";
+  color: #fcba2a;
+}
+.icon-iMenu_sy:before {
+  content: "\e907";
+  color: #ff5c7c;
+}
+.icon-footer_wb:before {
+  content: "\e902";
+  color: #ff5a6a;
+}
+.icon-footer_wx:before {
+  content: "\e903";
+  color: #42ca6b;
+}
+.icon-footer_download:before {
+  content: "\e904";
+  color: #585e69;
+}
